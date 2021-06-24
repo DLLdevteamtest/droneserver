@@ -14,6 +14,6 @@ steps:
       - flake8
       
 trigger:
-  event:
+  repo:
     include:
-    - push
+    - DLLdevteamtest/droneserver
