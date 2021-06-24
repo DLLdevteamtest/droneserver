@@ -15,5 +15,5 @@ steps:
       
 trigger:
   repo:
-    include:
+    exclude:
     - DLLdevteamtest/droneserver
