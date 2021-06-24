@@ -13,7 +13,4 @@ steps:
       - python -m pip install -r requirements.txt
       - flake8
       
-trigger:
-  repo:
-    exclude:
-    - DLLdevteamtest/droneserver
+
